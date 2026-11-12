@@ -1,0 +1,5 @@
+pandas>=2.0
+numpy>=1.24
+
+# 运行 notebooks/01_analysis.ipynb 需要
+# jupyterlab>=4.0

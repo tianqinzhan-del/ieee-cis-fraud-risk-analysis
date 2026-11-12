@@ -1,0 +1,8 @@
+metric,value
+transactions,590540.0
+columns_loaded,8.0
+frauds,20663.0
+fraud_rate,0.03499000914417313
+first_day,1.0
+last_day,182.0
+covered_days,182.0

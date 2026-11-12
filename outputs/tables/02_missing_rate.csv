@@ -1,0 +1,9 @@
+column,missing_rate
+P_emaildomain,0.1599485216920107
+card4,0.00267043722694483
+card6,0.0026602770345785214
+TransactionID,0.0
+TransactionAmt,0.0
+TransactionDT,0.0
+isFraud,0.0
+ProductCD,0.0

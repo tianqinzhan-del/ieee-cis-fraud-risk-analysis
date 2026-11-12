@@ -1,0 +1,9 @@
+check,value
+transaction_rows,590540
+identity_rows,144233
+transaction_id_unique,True
+identity_id_unique,True
+merged_rows,590540
+row_count_preserved,True
+identity_covered,144233
+identity_coverage_rate,0.2442391709283029

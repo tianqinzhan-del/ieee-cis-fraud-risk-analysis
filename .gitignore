@@ -1,0 +1,14 @@
+# 原始数据体积大，不提交；保留目录说明文件
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
